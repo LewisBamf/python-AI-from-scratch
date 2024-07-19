@@ -2,6 +2,8 @@
 
 A simple neural network built from scratch in Python to predict house prices based on features like area and the number of bedrooms. The project includes data preprocessing, model training, and evaluation, showcasing fundamental machine learning concepts without relying on high-level libraries.
 
+However dispite not having the libaries i manage an impresive **99.62%** accuracy!
+
 ## Project Overview
 
 This project demonstrates the implementation of a basic neural network from scratch using only core Python libraries like NumPy and Pandas. The neural network is designed to predict house prices based on features such as the size of the house (in square feet) and the number of bedrooms.
